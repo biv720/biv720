@@ -2,7 +2,7 @@
 
 ![Banner](https://cdn.discordapp.com/attachments/949267750302384150/1030482928133754890/BivrajGItBanner.png)
 
-**18 | He/Him**
+**19 | He/Him**
 - 🤖 Discord bot developer.
 - 🎨 Graphic Designer.
 - 🖥 Website Coming Soon.
