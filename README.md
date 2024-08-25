@@ -5,8 +5,7 @@
 **20 | He/Him**
 - 🤖 Discord bot developer.
 - 🎨 Graphic and UI/UX Designer.
-- 🖥 Website Coming Soon.
-
+- 🖥 www.bivraj.com
 
 ### Skills 
 <p align="center">
