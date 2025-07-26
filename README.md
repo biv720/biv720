@@ -2,7 +2,7 @@
 
 ![Banner](https://media.discordapp.net/attachments/758945965939359745/1282979478410100796/image.png?ex=6885e1c0&is=68849040&hm=88b5de90e8f99b1e2f31c2d4d95d5759a70a507a2ea4809dce9b8533fd64b18c&=&format=webp&quality=lossless&width=1057&height=287)
 
-**20 | He/Him**
+**21 | He/Him**
 - 🤖 Discord bot developer.
 - 🎨 Graphic and UI/UX Designer.
 - 🖥 www.bivraj.com
