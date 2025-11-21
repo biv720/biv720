@@ -10,7 +10,7 @@
 ### Skills 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,html,css,ps,ae,pr,figma,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,go,html,css,ps,ae,pr,figma,blender,cpp,MySQL,java" />
   </a>
 </p>
                     
