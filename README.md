@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Bivraj (VulcanB_) ![](https://komarev.com/ghpvc/?username=biv7200&style=for-the-badge&color=d60e0e&label=Visitors) 
 
-![Banner](https://media.discordapp.net/attachments/758945965939359745/1282979478410100796/image.png?ex=6885e1c0&is=68849040&hm=88b5de90e8f99b1e2f31c2d4d95d5759a70a507a2ea4809dce9b8533fd64b18c&=&format=webp&quality=lossless&width=1057&height=287)
+![Banner](https://media.discordapp.net/attachments/758945965939359745/1282979478410100796/image.png?ex=692172c0&is=69202140&hm=de6f4b307557a1c720956a8da3ec907acc589aaf164ba15ab422c64e4c65c709&=&format=webp&quality=lossless&width=1876&height=508)
 
 **21 | He/Him**
 - 🤖 Discord bot developer.
