@@ -16,4 +16,4 @@
                     
 [![An image of @biv720's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/biv720)](https://holopin.io/@biv720)
 
-<p align="center"><a href="https://twitter.com/Bivraj" target="_blank"><img src="https://img.shields.io/badge/Bivraj%20-%000000.svg?&style=for-the-badge&logo=X&logoColor=black"/></a>
+<p align="center"><a href="https://twitter.com/Bivraj" target="_blank"><img src="https://img.shields.io/badge/Bivraj%20-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=black"/></a>
